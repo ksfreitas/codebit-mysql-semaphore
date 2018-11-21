@@ -1,0 +1,19 @@
+{
+  "name": "codebit-mysql-semaphore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codebit-mysql-semaphore.js",
+  "scripts": {
+  },
+  "keywords": [
+    "mysql",
+    "semaphore",
+    "node",
+    "javascript"
+  ],
+  "author": "Cássio de Freitas e Silva",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
